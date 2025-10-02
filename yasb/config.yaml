@@ -28,7 +28,7 @@ bars:
       hide_on_fullscreen: true
     dimensions:
       width: "100%"
-      height: 32
+      height: 40
     padding:
       top: 0
       left: 0
@@ -39,7 +39,8 @@ bars:
         "gpu",
         "cpu",
         "memory",
-        "traffic",
+        "download",
+        "upload",
       ]
       center: [
         "cava"
@@ -51,12 +52,26 @@ bars:
         "battery"
       ]
 widgets:
-  traffic:
+  download:
     type: "yasb.traffic.TrafficWidget"
     options:
-      label: "<span>\udb82\udcfa</span> \uea9a{download_speed} \ueaa1{upload_speed}"
+      label: "<span>\uf0ab</span>{download_speed}"
       speed_unit: 'bytes'
       update_interval: 1000
+      max_label_length_align: right
+      max_label_length: 10
+      callbacks:
+        on_left: 'do_nothing'
+        on_middle: 'do_nothing'
+        on_right: 'do_nothing'
+  upload:
+    type: "yasb.traffic.TrafficWidget"
+    options:
+      label: "<span>\uf0aa</span>{upload_speed}"
+      speed_unit: 'bytes'
+      update_interval: 1000
+      max_label_length_align: right
+      max_label_length: 10
       callbacks:
         on_left: 'do_nothing'
         on_middle: 'do_nothing'
