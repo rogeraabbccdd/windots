@@ -158,7 +158,7 @@ widgets:
         play: "\ue768"
         pause: "\ue769"
       media_menu:
-        blur: false
+        blur: true
         round_corners: true
         round_corners_type: "normal"
         border_color: "None"
@@ -192,7 +192,7 @@ widgets:
         on_left: "toggle_volume_menu"
         on_right: "toggle_mute"
       audio_menu:
-        blur: false
+        blur: true
         round_corners: true
         round_corners_type: "normal"
         border_color: "None"

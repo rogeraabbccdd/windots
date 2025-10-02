@@ -83,7 +83,7 @@
 }
 
 .audio-menu {
-  background-color: rgb(23, 23, 23);
+  background-color: rgb(23, 23, 23, 0.8);
 }
 
 .audio-container .device {
@@ -107,7 +107,7 @@
 .media-menu {
   min-width: 360px;
   max-width: 360px;
-  background-color: rgb(23, 23, 23);
+  background-color: rgb(23, 23, 23, 0.8);
 }
 
 .media-menu .title,
