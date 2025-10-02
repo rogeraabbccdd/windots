@@ -36,8 +36,8 @@ bars:
       right: 0
     widgets:
       left: [
-        "gpu",
         "cpu",
+        "gpu",
         "memory",
         "download",
         "upload",
@@ -114,7 +114,7 @@ widgets:
       gradient_color_1: '#119756'
       gradient_color_2: '#969711'
       gradient_color_3: '#971211'
-      bars_number: 8
+      bars_number: 20
       bar_spacing: 2
       bar_width: 6
       sleep_timer: 0

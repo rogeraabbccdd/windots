@@ -77,6 +77,11 @@
   color: #f9e2af;
 }
 
+/* Cava */
+.cava-widget {
+  background-color: transparent;
+}
+
 /* Volume */
 .volume-widget .icon {
   color: #f38ba8;
