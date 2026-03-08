@@ -1,8 +1,8 @@
 # windots
-自用 Windows 桌面美化設定
+自用 Windows 桌面美化設定，以 [Catppuccin](https://catppuccin.com/) 風格設計
 
 <div align="center">
-  <img src="assets/screenshot20250929.png">
+  <img src="assets/screenshot20260308.png">
 </div>
 
 ## 使用工具
@@ -17,20 +17,36 @@
 
 - Windhawk
   - 下載並安裝 [Windhawk](https://windhawk.net/download)
-  - 安裝 `Taskbar tray system icon tweaks` 模組
-  - 安裝 `Windows 11 Notification Center Styler` 模組
-  - 安裝 `Windows 11 Taskbar Styler` 模組
+  - 安裝模組
+    - `Taskbar tray system icon tweaks`
+    - `Windows 11 Notification Center Styler`
+    - `Windows 11 Taskbar Styler`
 - YASB Reborn
   - 到 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) 下載並安裝字型 `JetBrainsMono NFP`
   - 下載並安裝 [YASB Reborn](https://github.com/amnweb/yasb)
-  - 使用 Winget 安裝 [Cava](https://github.com/karlstav/cava)  
-    ```bash
-    winget install karlstav.cava
-    ```
+- Cava
+  ```bash
+  winget install karlstav.cava
+  ```
 - 複製檔案到對應位置
   - `yasb` 資料夾內容移動到 `%USERPROFILE%\.config\yasb`
   - `windhawk` 內每個檔案對應不同模組設定，複製貼上到各模組的 `進階 > 模組設定`
 
-## 其他推薦
+## 其他設定
+- Windows 主色 `#1e1e2e`
+
+## 其他工具
 - [Files](https://files.community/) - 檔案總管替代工具，建議下載 Preview 版
-- [Raycast for Windows](https://www.raycast.com/windows) - 啟動器，目前 Windows 版需要加入等候名單
+- [Raycast for Windows](https://www.raycast.com/windows) - 指令啟動器
+
+## Catppuccin
+- [Catppuccin for Files](https://github.com/catppuccin/windows-files)
+- [Catppuccin for Raycast](https://github.com/catppuccin/raycast): 需要要付費 Pro 會員
+- [Catppuccin Chrome Theme - Mocha](https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)
+- [Catppuccin for Web File Explorer Icons](https://chromewebstore.google.com/detail/catppuccin-for-web-file-e/lnjaiaapbakfhlbjenjkhffcdpoompki?hl=zh-TW)
+- [Catppuccin Userstyles](https://userstyles.catppuccin.com/)，網頁樣式，需要 [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+- [Catppuccin for Spicetify](https://github.com/catppuccin/spicetify)，需要 [Spicetify](https://spicetify.app/)
+- [Catppuccin for Discord](https://github.com/catppuccin/discord)，需要 [BetterDiscord](https://betterdiscord.app/)
+- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
+- [Catppuccin for Windows Terminal](https://github.com/catppuccin/windows-terminal)
