@@ -40,13 +40,15 @@
 - [Raycast for Windows](https://www.raycast.com/windows) - 指令啟動器
 
 ## Catppuccin
-- [Catppuccin for Files](https://github.com/catppuccin/windows-files)
-- [Catppuccin for Raycast](https://github.com/catppuccin/raycast): 需要要付費 Pro 會員
-- [Catppuccin Chrome Theme - Mocha](https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh)
-- [Catppuccin for Web File Explorer Icons](https://chromewebstore.google.com/detail/catppuccin-for-web-file-e/lnjaiaapbakfhlbjenjkhffcdpoompki?hl=zh-TW)
-- [Catppuccin Userstyles](https://userstyles.catppuccin.com/)，網頁樣式，需要 [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
-- [Catppuccin for Spicetify](https://github.com/catppuccin/spicetify)，需要 [Spicetify](https://spicetify.app/)
-- [Catppuccin for Discord](https://github.com/catppuccin/discord)，需要 [BetterDiscord](https://betterdiscord.app/)
-- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
-- [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
-- [Catppuccin for Windows Terminal](https://github.com/catppuccin/windows-terminal)
+- [Catppuccin Cursors](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705): 非官方滑鼠樣式
+- [catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier): 圖片轉 Catppuccin 風格
+- [Catppuccin for Files](https://github.com/catppuccin/windows-files): Files 主題
+- [Catppuccin for Raycast](https://github.com/catppuccin/raycast): Raycast 主題，需要要付費 Pro 會員
+- [Catppuccin Chrome Theme - Mocha](https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh): Chrome 主題
+- [Catppuccin for Web File Explorer Icons](https://chromewebstore.google.com/detail/catppuccin-for-web-file-e/lnjaiaapbakfhlbjenjkhffcdpoompki?hl=zh-TW): Chrome 主題
+- [Catppuccin Userstyles](https://userstyles.catppuccin.com/): 網頁樣式，需要 [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+- [Catppuccin for Spicetify](https://github.com/catppuccin/spicetify): Spotify 主題，需要 [Spicetify](https://spicetify.app/)
+- [Catppuccin for Discord](https://github.com/catppuccin/discord): Discord 主題，需要 [BetterDiscord](https://betterdiscord.app/)
+- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc): VSCode 色彩佈景主題
+- [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons): VSCode 檔案圖示佈景主題
+- [Catppuccin for Windows Terminal](https://github.com/catppuccin/windows-terminal): Windows Terminal 主題
