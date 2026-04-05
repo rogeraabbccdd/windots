@@ -50,8 +50,8 @@
   color: #a6e3a1;
 }
 .gpu-widget .label {
-  min-width: 30px;
-  max-width: 30px;
+  min-width: 40px;
+  max-width: 40px;
 }
 
 /* CPU */
