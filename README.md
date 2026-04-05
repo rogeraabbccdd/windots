@@ -43,7 +43,7 @@
 - [Catppuccin Cursors](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705): 非官方滑鼠樣式
 - [catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier): 圖片轉 Catppuccin 風格
 - [Catppuccin for Files](https://github.com/catppuccin/windows-files): Files 主題
-- [Catppuccin for Raycast](https://github.com/catppuccin/raycast): Raycast 主題，需要要付費 Pro 會員
+- [Catppuccin for Raycast](https://github.com/catppuccin/raycast): Raycast 主題，需要要付費 Pro 會員，目前 Windows 版還不支援
 - [Catppuccin Chrome Theme - Mocha](https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh): Chrome 主題
 - [Catppuccin for Web File Explorer Icons](https://chromewebstore.google.com/detail/catppuccin-for-web-file-e/lnjaiaapbakfhlbjenjkhffcdpoompki?hl=zh-TW): Chrome 主題
 - [Catppuccin Userstyles](https://userstyles.catppuccin.com/): 網頁樣式，需要 [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
@@ -52,3 +52,4 @@
 - [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc): VSCode 色彩佈景主題
 - [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons): VSCode 檔案圖示佈景主題
 - [Catppuccin for Windows Terminal](https://github.com/catppuccin/windows-terminal): Windows Terminal 主題
+- [Adwaita for Steam](https://steambrew.app/theme?id=7dzdgNotKWgNmQYXc6A0): Steam 主題，需要 [Millennium](https://steambrew.app/)
