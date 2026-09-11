@@ -82,8 +82,8 @@
   color: #f9e2af;
 }
 
-/* Cava */
-.cava-widget {
+/* Audio Visualizer */
+.audio-visualizer-widget {
   background-color: var(--widget-background);
   padding: 0 15px;
 }
